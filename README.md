@@ -155,8 +155,3 @@ During development, **Cursor** was used as an AI-assisted coding tool to help im
 
 The optional in-app AI features (task description assistant and task insights) use the OpenAI API when configured, with a local fallback when no API key is provided. That runtime AI integration is separate from the use of Cursor during development.
 
-## Documentation
-
-- `docs/desafio.md` — original challenge
-- `docs/plano-implementacao.md` — implementation plan
-- `docs/guia-do-projeto.md` — full project guide (Portuguese)
